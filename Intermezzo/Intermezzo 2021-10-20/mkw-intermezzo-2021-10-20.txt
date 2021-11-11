@@ -1,0 +1,98 @@
+
+----------------------------------------------------------------------------------------------------
+	Slot	Prop.	Music	File name
+----------------------------------------------------------------------------------------------------
+
+()	9.1	T63	175	+ Albero Bello v1.1 (Shorky) [r63,5laps,FJRoyet]
+()	9.2	T53	151	+ GBA Boo Lake v1.1 (Slimeserver) [r53]
+()	9.3	T74	167	+ Casino Zone v1 (Krummers) [r74,x0.7,coob-r]
+()	9.4	T74	T74	+ Casino Zone {1lap} v1 (Krummers) [r74,x0.7,coob-r]
+
+()	10.1	T23	129	+ Iceway RC2 (BroOFun) [r23]
+()	10.2	T44	147	+ WiiU Rainbow Road v1 (Squadaloo) [r44]
+()	10.3	T74	167	+ Spooky Toys v1 (Krummers) [r74,x0.7,coob-r]
+()	10.4	T74	T74	+ Spooky Toys {1lap} v1 (Krummers) [r74,x0.7,coob-r]
+
+()	11.1	T43	141	+ Superstar Dystopia v1 (SpyKid) [r43,m42,2laps]
+()	11.2	T53	151	+ Thump Bump Forest v1.3 (SquireTurnbolt) [r53]
+()	11.3	T11	125	+ CTTR Track and the Beanstalk v1.1 (razero) [r11,FJRoyet]
+()	11.4	T74	167	+ Velvet Plaza v1 (Krummers) [r74,x0.7,coob-r]
+
+()	12.1	T74	T74	+ Velvet Plaza {1lap} v1 (Krummers) [r74,x0.7,coob-r]
+()	12.2	T74	167	+ Wuhu Plaza v1 (Krummers) [r74,x0.7,coob-r]
+()	12.3	T74	T74	+ Wuhu Plaza {1lap} v1 (Krummers) [r74,x0.7,coob-r]
+
+----------------------------------------------------------------------------------------------------
+
+()	12.4	T33	143	+U Crystal Dungeon v3.23 (SpyKid) [r33]
+
+()	13.1	T43	145	+U Final Grounds v2.42 (MEGAKart69) [r43,2laps,FJRoyet]
+()	13.2	T44	147	+U GBA Rainbow Road v1.2 (SquireTurnbolt) [r44,2laps]
+()	13.3	T61	157	+U GBA Snow Land v2 (cpfusion) [61]
+
+----------------------------------------------------------------------------------------------------
+
+()	13.4	T72	155	+T Thwomp Factory v1.2 (KiwiPowerGreen+Toxic Amaranth) [r72,2ktpt,FJRoyet]
+
+()	14.1	T84	163	+T Wolf Castlegrounds v1.11 (SpyKid) [r84]
+
+----------------------------------------------------------------------------------------------------
+
+()	14.2	T63	175	+N Albero Bello v1 (Shorky) [r63,lag]
+()	14.3	T32	133	+N Aquania v1.5 (SpyKid) [r32,Carp,SpyKid]
+()	14.4	T61	157	+N Blue Loop v2 (Toxic Amaranth) [61]
+
+()	15.1	T53	151	+N GBA Boo Lake v1 (Slimeserver) [r53]
+()	15.2	T12	119	+N Canyon Craft v1 (CarryOn) [r12]
+()	15.3	T12	119	+N Canyon Craft v1.1 (CarryOn) [r12,FJRoyet]
+()	15.4	T73	161	+N Castaway Isle Beta2 (cpfusion) [r73,FJRoyet]
+
+()	16.1	T51	165	+N DS Cheep Cheep Beach v2 (SquireTurnbolt) [r51]
+()	16.2	T51	165	+N DS Cheep Cheep Beach v2.1 (SquireTurnbolt) [r51]
+()	16.3	T13	121	+N Fixed Mushroom Gorge v1 (AlmostTWD98) [r13,edit]
+()	16.4	T13	121	+N Hooktail Castle v1 (Man-O-Wii) [r13]
+
+()	17.1	T23	129	+N Iceway RC1 (BroOFun) [r23,FJRoyet]
+()	17.2	T51	165	+N Island Circuit v3 (Potatoman44) [r51]
+()	17.3	T81	153	+N PMWR King's Kourse Beta.mkd (Oh ok) [r81,FJRoyet]
+()	17.4	T81	153	+N PMWR King's Kourse Beta2 (Oh ok) [r81,FJRoyet]
+
+()	18.1	T81	153	+N PMWR King's Kourse {nt} Beta2 (Oh ok) [r81,no thwomps,FJRoyet]
+()	18.2	T73	161	+N GBA Lakeside Park v1.1 (Flint+Hman6516) [r73,FJRoyet]
+()	18.3	T52	173	+N Lilypad Lake v1.3 (Sheale) [r52,FJRoyet]
+()	18.4	T11	125	+N SSBB Mario Circuit v1 (Diego Vapy) [r11]
+
+()	19.1	T11	125	+N SSBB Mario Circuit v1.fix (Diego Vapy) [r11]
+()	19.2	T54	159	+N WiiU Mario Kart Stadium RC1.mkd (TheGamingBram) [r54,FJRoyet]
+()	19.3	T54	159	+N WiiU Mario Kart Stadium RC2 (TheGamingBram) [r54,Mr.Brian]
+()	19.4	T13	121	+N Minecraft Kart v2.1 (KiwiPowerGreen) [r13,FJRoyet]
+
+()	20.1	T12	119	+N Wii Moonview Highway v1 (TL) [r12,edit,fail]
+()	20.2	T13	121	+N Mushroom Grove v1.1 (Lovelifeandtpose024) [r13,FJRoyet]
+()	20.3	T34	139	+N Oymyakon Acropolis v1 (Toxic Amaranth) [r34]
+()	20.4	T34	139	+N Oymyakon Acropolis v1.beta (Toxic Amaranth) [r34]
+
+()	21.1	T31	141	+N Pauline Circuit v0.9b (SquireTurnbolt) [31,m42,2laps,issue=posbug,lag,FJRoyet]
+()	21.2	T44	147	+N WiiU Rainbow Road v1.b1 (Squadaloo) [r44]
+()	21.3	T54	159	+N Retro Raceway v1.1 (ScyHigh) [r54,FJRoyet]
+()	21.4	T44	147	+N Space Odyssey v1.2 (Yoshivert99) [r44,1lap,HackStarz]
+
+()	22.1	T23	129	+N GP Stadium Arena v1 (Diego Vapy) [r23]
+()	22.2	T12	119	+N GBA Sunset Wilds v1.1 (Flint) [r12,FJRoyet]
+()	22.3	T21	125	+N WiiU Sunshine Airport Beta1 (Diego Vapy) [r21,2laps]
+()	22.4	T21	125	+N WiiU Sunshine Airport Beta2 (Diego Vapy) [r21,2laps,OrangeYoshi]
+
+()	23.1	T53	151	+N Thump Bump Forest v1 (SquireTurnbolt) [r53]
+()	23.2	T53	151	+N Thump Bump Forest v1.1 (SquireTurnbolt) [r53]
+()	23.3	T53	151	+N Thump Bump Forest v1.2 (SquireTurnbolt) [r53]
+()	23.4	T72	155	+N Tilted Altar v1 (JimmyKaz) [r72,lag]
+
+()	24.1	T31	135	+N WiiU Toad Harbor RC3 (TheGamingBram) [31+71,FJRoyet]
+()	24.2	T61	157	+N SNES Vanilla Lake 1 v1.1 (SquireTurnbolt) [r61,5laps]
+()	24.3	T72	155	+N VVVVVV Circuit 3 v1.mkd (TheZACAtac) [r72,FJRoyet]
+()	24.4	T72	155	+N VVVVVV Circuit 3 {C} v1.1 [r72,Custom Item Boxes,FJRoyet]
+
+()	25.1	T72	155	+N VVVVVV Circuit 3 {N} v1.1 [r72,Normal Item Boxes,FJRoyet]
+()	25.2	T52	173	+N N64 Yoshi Valley Beta3.1.mkd (zilly) [r52,lex,Diego Vapy,FJRoyet]
+
+----------------------------------------------------------------------------------------------------
