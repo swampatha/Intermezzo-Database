@@ -1,0 +1,37 @@
+
+----------------------------------------------------------------------------------------------------
+	Slot	Prop.	Music	File name
+----------------------------------------------------------------------------------------------------
+
+()	A2.1	-	-	21 +N N64 Skyscraper v1 (Diego Vapy) [arena,bad=lag,lag++]
+()	A2.2	-	-	22 +N N64 Double Deck v1 (Diego Vapy) [arena]
+()	A2.3	-	-	23 +N N64 Block Fort v1 (Diego Vapy) [arena]
+()	A2.4	-	-	24 +N N64 Big Donut v1 (Diego Vapy) [arena]
+
+----------------------------------------------------------------------------------------------------
+
+()	9.1	T44	147	+ Celestial Speedway v1.5 (bugsy) [r44,2laps,2ktpt]
+()	9.2	T53	151	+ Haunted Village v1 (NikoPlays) [r53]
+()	9.3	T31	135	+ MKT Sydney Sprint v1 (Bruh de la Boi) [r31]
+()	9.4	T31	135	+ MKT Sydney Sprint 2 v1 (Bruh de la Boi) [r31]
+
+----------------------------------------------------------------------------------------------------
+
+()	10.1	T81	153	+U SNES Donut Plains 3 v2.11 (Bear+ZPL) [r81]
+()	10.2	T43	145	+U Final Grounds v2.43 (MEGAKart69) [r43,2laps]
+()	10.3	T84	163	+U Magmatic Sanctuary v1.43 (ZPL+Jasperr+Terron) [r84]
+()	10.4	T61	157	+U GBA Snow Land v2.1 (cpfusion) [61]
+
+()	11.1	T62	149	+U Yoshi Lagoon v1.4.2 (Sucht93a,Wiimm) [62,Silverr]
+
+----------------------------------------------------------------------------------------------------
+
+()	11.2	T31	135	+N Black Paper World v1 (Luigi Story) [r31]
+()	11.3	T44	147	+N Celestial Speedway v1.02.mkd (bugsy) [r44,2laps,2ktpt,FJRoyet]
+()	11.4	T83	171	+N DS Donkey Course v1.2 (wg93589) [r83,bad=minimap,Krummers]
+
+()	12.1	T33	143	+N Dragon's Den RC1 (Shorky) [r33]
+()	12.2	T44	147	+N Rainbow Road Revolution v2.1 (Luigi Hack Fan) [r44,1lap,lex,warn=itempos]
+()	12.3	T62	149	+N Yoshi Lagoon v1.4.1.mkd (Sucht93a,Wiimm) [62,2laps,FJRoyet]
+
+----------------------------------------------------------------------------------------------------
