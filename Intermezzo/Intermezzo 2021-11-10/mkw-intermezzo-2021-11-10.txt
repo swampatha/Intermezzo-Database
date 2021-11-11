@@ -1,0 +1,30 @@
+
+----------------------------------------------------------------------------------------------------
+	Slot	Prop.	Music	File name
+----------------------------------------------------------------------------------------------------
+
+()	A2.2	A22	A22	22 ++ TMDKR Minigame Course v1 (B_squo) [a22]
+
+----------------------------------------------------------------------------------------------------
+
+()	9.1	T53	151	+ GBA Broken Pier v1 (xBlue98) [r53,2ktpt]
+
+----------------------------------------------------------------------------------------------------
+
+()	9.2	T84	163	+U Vile Isle v1.3 (Citrus) [r84]
+
+----------------------------------------------------------------------------------------------------
+
+()	9.3	T31	135	+N Make America Great Again v1.1.fix (Skipper93653+B.B.) [31,SlipperyMac]
+()	9.4	T81	153	+N SNES Mario Circuit 1 v1 (Wacker) [r81]
+
+()	10.1	T11	125	+N MKT New York Minute 3 Beta (Luigi Hack Fan) [r11]
+()	10.2	T53	151	+N Paralyzed Cliffs v1.5.5 (Rex) [r53]
+()	10.3	T74	167	+N GBA Peach Circuit v1 (ScyHigh+KawaiiDawn) [r74]
+()	10.4	T82	179	+N GBA Sky Garden v1 (Squadaloo)
+
+()	11.1	T23	129	+N The Grand Oak v1.1 (CarryOn) [r23,bad=minimap]
+()	11.2	T23	129	+N The Grand Oak v1.1.fix (CarryOn) [r23,bad=minimap]
+()	11.3	T23	129	+N SNES Vanilla Lake 1 v1b (Potatoman44) [r23,KantoEpic]
+
+----------------------------------------------------------------------------------------------------
